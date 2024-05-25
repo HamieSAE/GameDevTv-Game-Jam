@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"E:/UE_5.3/Engine/Content/OpenWorldTemplate/LandscapeMaterial/MI_ProcGrid.uasset",
+				"E:/GitHub/GameDevTv-Game-Jam/BeaversLastDam/Content/Scenes/Game.umap",
 				"E:/GitHub/BeaversLastDam/Content/StarterContent/Props/MaterialSphere.uasset",
 				"E:/GitHub/BeaversLastDam/Content/StarterContent/Particles/Materials/M_Burst.uasset",
 				"E:/GitHub/BeaversLastDam/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset",
@@ -343,7 +345,6 @@
 				"E:/GitHub/BeaversLastDam/Content/Art/woodCol.uasset",
 				"E:/GitHub/BeaversLastDam/Content/Materials/waterMat.uasset",
 				"E:/GitHub/BeaversLastDam/Content/Art/soilCol.uasset",
-				"E:/UE_5.3/Engine/Content/OpenWorldTemplate/LandscapeMaterial/MI_ProcGrid.uasset",
 				"E:/GitHub/BeaversLastDam/Content/Materials/soilMat.uasset",
 				"E:/GitHub/BeaversLastDam/Content/Materials/woodMat.uasset"
 			]
